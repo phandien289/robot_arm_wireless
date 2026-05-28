@@ -1,6 +1,6 @@
 # robot_arm_wireless
 
-Using 2 Arduino NANO, 1 HC-05 Module, and our self-made pcb.
+Using 2 Arduino NANO, HC-05 Module, MPU6050 and our self-made pcb.
 SLAVE           |  MASTER
 :-------------------------:|:-------------------------:
 <img width="881" height="584" alt="Picture2" src="https://github.com/user-attachments/assets/5d986ad6-aaaa-49bd-86c0-656f87fd17e5" /> |  <img width="895" height="580" alt="Picture3" src="https://github.com/user-attachments/assets/104bb7b1-b20e-4b90-972a-daf423b8c788" />
